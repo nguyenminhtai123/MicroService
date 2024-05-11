@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://Cluster12482:root@cluster12482.ah4zqgh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster12482
+      database: product
+#      port: 64617
