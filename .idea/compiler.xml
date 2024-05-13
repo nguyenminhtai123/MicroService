@@ -12,7 +12,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="discovery-server" target="17" />
       <module name="inventoryService" target="17" />
+      <module name="MicroService" target="17" />
       <module name="product-service (1)" target="17" />
     </bytecodeTargetLevel>
   </component>
